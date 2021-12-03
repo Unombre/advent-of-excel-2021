@@ -8,4 +8,4 @@ Each Excel file has the same format.
 
 This project is shit, but Excel>Python
 
-Objective is to finnish at least dat 15 with this method.
+Objective is to finish at least day 15 with this method.
