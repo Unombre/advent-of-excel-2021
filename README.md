@@ -1,13 +1,14 @@
 # advent-of-excel-2021
-advent of code, but made with excel
+[advent of code](https://adventofcode.com/), but made with excel
 
 Each Excel file has the same format.
 - Green zone for the input file
 - Blue Zone for the ouput
 
-VBA is of course not allowed
+VBA not allowed
+Coffee allowed
 
-Objective is to finish at least day 15 with this method.
+My objective is to finish at least day 15 with this method.
 
 - [Day 1](https://github.com/JulesMalard30/advent-of-excel-2021/blob/main/day-01.xlsx)
 - [Day 2](https://github.com/JulesMalard30/advent-of-excel-2021/blob/main/day-02.xlsx)
