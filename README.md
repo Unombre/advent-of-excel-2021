@@ -14,7 +14,7 @@ List of file :
 - [Day 1](https://github.com/Unombre/advent-of-excel-2021/blob/main/day-01.xlsx)
 - [Day 2](https://github.com/Unombre/advent-of-excel-2021/blob/main/day-02.xlsx)
 - [Day 3](https://github.com/Unombre/advent-of-excel-2021/blob/main/day-03.xlsx)
-- [Day 4 WIP](https://github.com/Unombre/advent-of-excel-2021/blob/main/day-04.xlsx)
-- [Day 5 Nope.]
-- [Day 6 WIP](https://github.com/Unombre/advent-of-excel-2021/blob/main/day-06.xlsx)
-- [Day 7 WIP](https://github.com/Unombre/advent-of-excel-2021/blob/main/day-07.xlsx)
+- [Day 4](https://github.com/Unombre/advent-of-excel-2021/blob/main/day-04.xlsx) WIP
+- Day 5 Nope.
+- [Day 6](https://github.com/Unombre/advent-of-excel-2021/blob/main/day-06.xlsx) WIP
+- [Day 7](https://github.com/Unombre/advent-of-excel-2021/blob/main/day-07.xlsx) WIP
