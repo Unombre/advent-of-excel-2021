@@ -18,6 +18,12 @@ List of file :
 - Day 5 Nope.
 - [Day 6](https://github.com/Unombre/advent-of-excel-2021/blob/main/day-06.xlsx) WIP
 - [Day 7](https://github.com/Unombre/advent-of-excel-2021/blob/main/day-07.xlsx) WIP
+- Day 8 Nope.
+- [Day 9](https://github.com/Unombre/advent-of-excel-2021/blob/main/day-09.xlsx) WIP
+- Day 10 Nope.
+- Day 11 Nope.
+- Day 12 Nope.
+- Day 13 Nope.
 
 
 ![Status](https://op-time.com/Sans%20titre.png)
